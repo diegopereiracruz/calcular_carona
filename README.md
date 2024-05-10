@@ -10,13 +10,5 @@ This Android application is designed to calculate travel expenses based on vario
 
 ## Requirements
 
-- Android 5.0 (API level 21) or higher.
-- A device with a touchscreen display.
-
-## Contributing
-
-Contributions to this project are welcome. Please feel free to submit pull requests or report issues.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+- Minimum: Android 7.0 Nougat (API level 24)
+- Tested on: Android 14 (API level 34)
